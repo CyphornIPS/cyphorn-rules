@@ -23,11 +23,11 @@ cyphorn-rules/
 
 ### 1. Stable Channel (`channels/stable`)
 - **Manifest URL:**
-  `https://raw.githubusercontent.com/<OWNER>/cyphorn-rules/main/channels/stable/manifest.json`
+  `https://raw.githubusercontent.com/CyphornIPS/cyphorn-rules/main/channels/stable/manifest.json`
 - **Detection Rules Artifact:**
-  `https://raw.githubusercontent.com/<OWNER>/cyphorn-rules/main/channels/stable/rules.rules`
+  `https://raw.githubusercontent.com/CyphornIPS/cyphorn-rules/main/channels/stable/rules.rules`
 - **File Intelligence Artifact:**
-  `https://raw.githubusercontent.com/<OWNER>/cyphorn-rules/main/channels/stable/file-intelligence.json`
+  `https://raw.githubusercontent.com/CyphornIPS/cyphorn-rules/main/channels/stable/file-intelligence.json`
 
 ---
 
