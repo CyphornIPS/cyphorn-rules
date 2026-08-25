@@ -1,7 +1,6 @@
 # ==============================================================================
-# CyphornIPS - Phase 2.6 Suricata 8.0.6 byte_test & byte_extract Test Rules
-# Target: 192.168.1.254:80 (Harmless Local Test Rules)
-# SIDs: 9200001 - 9200010
+# CyphornIPS -
+# # SIDs: 9200001 - 9200010
 # ==============================================================================
 
 # 1. 2-byte Big-Endian Comparison
