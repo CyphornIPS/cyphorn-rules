@@ -1,7 +1,9 @@
 # ==============================================================================
 # CyphornIPS -
-# # SIDs: 9200001 - 9200010
+# # SIDs: 9200001 - 9200011
 # ==============================================================================
+
+alert tcp any any -> any 8088 (msg:"CyphornIPS UPDATE TEST 2026.08.26"; sid:9200011; rev:1;)
 
 # 1. 2-byte Big-Endian Comparison
 alert tcp any any -> 192.168.1.254 80 (msg:"TEST ByteTest 2-Byte BigEndian"; byte_test:2,=,0x1234,0; sid:9200001; rev:1;)
