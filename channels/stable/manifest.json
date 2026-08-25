@@ -2,22 +2,22 @@
   "schema_version": 1,
   "product": "CyphornIPS",
   "channel": "stable",
-  "generated_at": "2026-08-26T01:10:00Z",
+  "generated_at": "2026-08-25T22:00:00Z",
   "min_engine_version": "1.0.0",
-"rules": {
-  "version": "2026.08.26.1",
-  "filename": "rules.rules",
-  "download_url": "https://raw.githubusercontent.com/CyphornIPS/cyphorn-rules/main/channels/stable/rules.rules",
-  "sha256": "9818f5bbe8ac1eda0b5f5c871f1b387fcf44cafcb3a3f909923f29bc9aef7d14",
-  "rule_count": 3204,
-  "size_bytes": 839334
-},
+  "rules": {
+    "version": "2026.08.25.1",
+    "filename": "rules.rules",
+    "download_url": "https://raw.githubusercontent.com/CyphornIPS/cyphorn-rules/main/channels/stable/rules.rules",
+    "sha256": "6c1d2a70168848723e7a401275969a33e2d3fb04545f744672181ac4f851f367",
+    "rule_count": 3203,
+    "size_bytes": 835981
+  },
 "file_intelligence": {
-  "version": "2026.08.25.1",
+  "version": "2026.08.26.2",
   "filename": "file-intelligence.json",
   "download_url": "https://raw.githubusercontent.com/CyphornIPS/cyphorn-rules/main/channels/stable/file-intelligence.json",
-  "sha256": "be25d97cd3e53e8d24b948a954c5e88b08f009db29e275555b6d107a5ed27268",
-  "record_count": 102,
-  "size_bytes": 51766
+  "sha256": "722e9a44e1b0acddf3d13a5f7aa78fa389246bfb70c72f948bde05d7054a2676",
+  "record_count": 100,
+  "size_bytes": 51211
 }
 }
