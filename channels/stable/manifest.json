@@ -12,12 +12,12 @@
     "rule_count": 3203,
     "size_bytes": 835981
   },
-"file_intelligence": {
-  "version": "2026.08.26.2",
-  "filename": "file-intelligence.json",
-  "download_url": "https://raw.githubusercontent.com/CyphornIPS/cyphorn-rules/main/channels/stable/file-intelligence.json",
-  "sha256": "5b4230c7db265ad56d120fbc3607fdc3c23e2f28e2af6a935e3fcb3a02d98f5f",
-  "record_count": 100,
-  "size_bytes": 51212
-}
+  "file_intelligence": {
+    "version": "2026.08.25.1",
+    "filename": "file-intelligence.json",
+    "download_url": "https://raw.githubusercontent.com/CyphornIPS/cyphorn-rules/main/channels/stable/file-intelligence.json",
+    "sha256": "be25d97cd3e53e8d24b948a954c5e88b08f009db29e275555b6d107a5ed27268",
+    "record_count": 101,
+    "size_bytes": 51766
+  }
 }
