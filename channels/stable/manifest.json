@@ -16,8 +16,8 @@
   "version": "2026.08.26.2",
   "filename": "file-intelligence.json",
   "download_url": "https://raw.githubusercontent.com/CyphornIPS/cyphorn-rules/main/channels/stable/file-intelligence.json",
-  "sha256": "722e9a44e1b0acddf3d13a5f7aa78fa389246bfb70c72f948bde05d7054a2676",
+  "sha256": "5b4230c7db265ad56d120fbc3607fdc3c23e2f28e2af6a935e3fcb3a02d98f5f",
   "record_count": 100,
-  "size_bytes": 51211
+  "size_bytes": 51212
 }
 }
