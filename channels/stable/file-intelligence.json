@@ -1253,6 +1253,19 @@
       ]
     },
     {
+      "sha256_hash": "9d4029a4584dac715f708ed2012f2dcbd08ba283ecef8b6c14d7c412e030cc6b",
+      "sha3_384_hash": "8e437b8c7e6b72a30a8366b68244d80bf43e5283fd9fd5e0dff069ee22d5567250bcee8e0dbc29ddfaf14c4a29ad3bdf",
+      "sha1_hash": "c397ec035b2cdbc951f09e224cced12782af0f53",
+      "md5_hash": "edaccccb62ff97a103fdf39a69a76a1d",
+      "file_name": "9d4029a4584dac715f708ed2012f2dcbd08ba283ecef8b6c14d7c412e030cc6b.exe",
+      "file_type_mime": "application/x-dosexec",
+      "tags": [
+        "CoinMiner",
+        "exe",
+        "PE"
+      ]
+    },
+    {
       "sha256_hash": "c028d7aa15e851b0eefb31638a1856498a237faf1829050832d3b9b19f9ab75f",
       "file_name": "test.jpg",
       "file_type_mime": "image/jpeg",
